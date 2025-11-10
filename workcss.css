@@ -1,0 +1,20 @@
+.jk{
+    background-color: olive;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    
+
+}
+
+.div{
+    background-color: aqua;
+    height:100;
+    width:500px;
+    text-align:center;
+
+}
+.pk{
+    border: solid black;
+    width: fit-content;
+}
